@@ -282,15 +282,6 @@ Final Investment Report
 
 🔍 Real-World Analysis Cases
 
-The analyser has been used to evaluate:
-
-NIACL
-IFCI
-GNFC
-SPARC
-STAL
-NSE Value Unlocking Opportunities
-
 Special emphasis was placed on:
 
 Hidden asset valuation
